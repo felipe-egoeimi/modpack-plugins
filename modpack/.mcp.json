@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "modpack": {
+      "type": "http",
+      "url": "https://mcp.modpack.egoeimi.org/mcp"
+    }
+  }
+}

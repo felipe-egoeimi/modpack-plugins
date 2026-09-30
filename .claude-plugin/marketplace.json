@@ -1,0 +1,15 @@
+{
+  "name": "modpack",
+  "description": "Modpack's plugin for Claude: the connector plus the skills to use and make packs.",
+  "owner": {
+    "name": "Modpack",
+    "url": "https://modpack.egoeimi.org"
+  },
+  "plugins": [
+    {
+      "name": "modpack",
+      "source": "./modpack",
+      "description": "Run Modpack packs from Claude, and make and publish your own."
+    }
+  ]
+}

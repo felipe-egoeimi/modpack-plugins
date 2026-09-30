@@ -1,0 +1,21 @@
+{
+  "name": "modpack",
+  "displayName": "Modpack",
+  "version": "0.1.0",
+  "description": "Run Modpack packs from Claude for work it can't do alone (live lead lists, AI visibility and SEO audits, a site as Markdown), and make and publish your own packs.",
+  "author": {
+    "name": "Modpack",
+    "url": "https://modpack.egoeimi.org"
+  },
+  "homepage": "https://modpack.egoeimi.org",
+  "keywords": [
+    "modpack",
+    "packs",
+    "lead lists",
+    "seo",
+    "ai visibility",
+    "mcp"
+  ],
+  "license": "Apache-2.0",
+  "repository": "https://github.com/felipe-egoeimi/modpack-plugins"
+}
